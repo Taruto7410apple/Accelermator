@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Accelermator
 //
-//  Created by Ayaka Yasunaga on 2021/02/04.
+//  Created on 2021/02/04.
 //
 
 import UIKit
